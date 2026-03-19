@@ -1,7 +1,7 @@
 import ListGroup from "./components/ListGroup";
 
 function App(){
-  return <ListGroup/>
+  return <div> <ListGroup/> </div>
 }
 
 export default App;
